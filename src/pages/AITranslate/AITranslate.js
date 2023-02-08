@@ -99,7 +99,7 @@ const AITranslate = () => {
     //로컬호스트 통신
     // BASE_URL =
     //   window.location.protocol + "//" + document.domain + ":" + PORT_NUMBER;
-    BASE_URL = "https://i8d204.p.ssafy.io";
+    BASE_URL = "https://sueo.shop";
     //서버 통신
     // BASE_URL = `http://3.35.127.122:5000`;
 
